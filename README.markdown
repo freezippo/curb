@@ -1,4 +1,4 @@
-# Curb - Libcurl bindings for Ruby [![Build Status](https://travis-ci.org/freezippo/curb.svg?branch=master](https://travis-ci.org/freezippo/curb)
+# Curb - Libcurl bindings for Ruby [![Build Status](https://travis-ci.org/freezippo/curb.svg?branch=master)](https://travis-ci.org/freezippo/curb)
 
 * [rubydoc rdoc](http://www.rubydoc.info/github/taf2/curb/)
 * [github project](http://github.com/taf2/curb/tree/master)
